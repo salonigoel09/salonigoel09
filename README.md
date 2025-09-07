@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+ Computer Engineering student (2026) with CGPA 8.5 and strong coding expertise in Java, C++, Python. Solved 700+ DSA
+ problems on LeetCode, demonstrating advanced problem-solving and optimization skills. Passionate about building scalable
+ backend systems and continuously learning new technologies.
 <!--
 **salonigoel09/salonigoel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
